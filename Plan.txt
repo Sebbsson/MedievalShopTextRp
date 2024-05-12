@@ -1,0 +1,56 @@
+
+Definition of the game:
+
+What is MedievalTextRp?
+
+MedievalTextRp is a game where you talk to a shopkeeper whom creates medieval fantasy items for an adventurer such as armour, weapons, jewelry etc.
+You will have a dialog with the shopkeeper and he will judge your choices.
+
+
+What can you do in MedievalTextRp?
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Steps to create the game:
+
+Need to create objects (items) & categories for different types of items (category ex: "Headgear" wich would include "Helmet", "Wizards hat", "Robe" etc.).
+
+
+Categories will be Vectors that can be printed when the user chooses a type of gear.
+
+Items need stats:
+*Health
+*Mana
+*Armour
+*Damage
+*Speed
+
+Stats need numeric values:
+*Randomly generated when you make an item?
+
+We Need to be able to store the chosen equiped gear and display their total stats.
+
+A character can use:
+*One pair of gloves
+*One pair of boots
+*A Headpiece
+*A Bodypiece
+*A single weapon
+*An Amulet  / Trinket
+*10 RINGS
+----------------------------------------
+
+List of Different Pieces a character can use is presented.
+
+"I want a Headgear!"
+
+Shopkeeper says, "what headgear do you want?"
+
+List of Headgears are presented.
+
+"I want a wizards hat!"
+
+"Wizards hat gives a 1.5 multiplier to 'Damage' and 'Mana'. What stats do you want on the wizards hat?"
+
+List of stats presented.

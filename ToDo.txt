@@ -1,0 +1,10 @@
+
+To do:
+
+*Clear commented out code
+*Lista ut vad du ska göra med typer av gear.
+*Strukturera upp Plan.txt.
+*Lista ut om du ska göra så att alla items har alla stats med nollvärden eller om anvöndaren ska kunna lägga till statsen till ett tomt item.
+*Gör en karaktärsklass och ge den stats som är baserade på dens gear och dess stats.
+*Remove all unused #includes
+*Delete the "Stats"-class
